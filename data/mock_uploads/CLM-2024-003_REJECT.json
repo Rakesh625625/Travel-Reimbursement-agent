@@ -1,0 +1,50 @@
+{
+  "claim_id": "CLM-2024-003",
+  "scenario_label": "REJECT \u2014 Ineligible categories (minibar, entertainment, luxury hotel)",
+  "employee_id": "EMP-091",
+  "employee_name": "Neha Kapoor",
+  "employee_grade": "L1",
+  "department": "Marketing",
+  "trip_city": "Bangalore",
+  "trip_country": "India",
+  "trip_type": "domestic",
+  "trip_purpose": "Internal team workshop",
+  "travel_start_date": "2024-03-10",
+  "travel_end_date": "2024-03-11",
+  "submission_date": "2024-03-15",
+  "items": [
+    {
+      "item_id": "ITM-003-01",
+      "type": "hotel",
+      "description": "ITC Gardenia \u2013 5-star luxury hotel (policy allows max 4-star domestic)",
+      "amount": 9500,
+      "quantity": 1,
+      "unit": "nights",
+      "receipt_available": true,
+      "receipt_ref": "CLM003_hotel_receipt.txt"
+    },
+    {
+      "item_id": "ITM-003-02",
+      "type": "minibar",
+      "description": "Hotel minibar charges \u2013 ineligible",
+      "amount": 850,
+      "quantity": 1,
+      "unit": "trip",
+      "receipt_available": true,
+      "receipt_ref": "CLM003_minibar_receipt.txt"
+    },
+    {
+      "item_id": "ITM-003-03",
+      "type": "entertainment",
+      "description": "Personal entertainment \u2013 movie and dinner outing",
+      "amount": 1800,
+      "quantity": 1,
+      "unit": "trip",
+      "receipt_available": true,
+      "receipt_ref": "CLM003_entertainment_receipt.txt"
+    }
+  ],
+  "total_claimed": 12150,
+  "manager_id": "EMP-022",
+  "notes": "Submitted as business expenses."
+}

@@ -1,0 +1,18 @@
+================================================
+       FAST TRACK CABS — MUMBAI
+================================================
+Receipt No   : FTC-MUM-20240115-7743
+Date         : January 15, 2024
+------------------------------------------------
+Passenger    : Priya Sharma
+From         : Chhatrapati Shivaji Terminal (CST)
+To           : Hotel Taj Lands End
+Distance     : 18.2 km
+Fare         : ₹350.00
+Surge        : NIL
+Total        : ₹350.00
+------------------------------------------------
+Payment      : Cash
+Drive Name   : Ramesh D.
+Vehicle No   : MH-01-AZ-9988
+================================================

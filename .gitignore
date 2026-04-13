@@ -1,0 +1,32 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dependencies
+.pytest_cache/
+htmlcov/
+.coverage
+.tox/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Assessment Delivery Files (Ignored per user request)
+Assignment_Documentation.md
+HCL_Assessment_Full_Submission_Package.md
+Deliverables_Summary.md
+Project_Architecture.md
+Backend_Technical_Workflow.md
+LangGraph_Visualization.md

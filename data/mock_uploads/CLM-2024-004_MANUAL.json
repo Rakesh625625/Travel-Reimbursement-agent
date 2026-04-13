@@ -1,0 +1,50 @@
+{
+  "claim_id": "CLM-2024-004",
+  "scenario_label": "MANUAL REVIEW \u2014 Critical receipts missing (flight + hotel)",
+  "employee_id": "EMP-055",
+  "employee_name": "Ravi Kumar",
+  "employee_grade": "L2",
+  "department": "Operations",
+  "trip_city": "Chennai",
+  "trip_country": "India",
+  "trip_type": "domestic",
+  "trip_purpose": "Vendor audit at Chennai plant",
+  "travel_start_date": "2024-04-08",
+  "travel_end_date": "2024-04-10",
+  "submission_date": "2024-04-14",
+  "items": [
+    {
+      "item_id": "ITM-004-01",
+      "type": "flight",
+      "description": "IndiGo BLR-MAA-BLR (round trip) \u2013 no receipt",
+      "amount": 11500,
+      "quantity": 1,
+      "unit": "trip",
+      "receipt_available": false,
+      "receipt_ref": null
+    },
+    {
+      "item_id": "ITM-004-02",
+      "type": "hotel",
+      "description": "Chennai Marriott \u2013 2 nights \u2013 no receipt",
+      "amount": 7800,
+      "quantity": 2,
+      "unit": "nights",
+      "receipt_available": false,
+      "receipt_ref": null
+    },
+    {
+      "item_id": "ITM-004-03",
+      "type": "meal",
+      "description": "Meals \u2013 2 days",
+      "amount": 800,
+      "quantity": 2,
+      "unit": "days",
+      "receipt_available": true,
+      "receipt_ref": "CLM004_meal_receipt.txt"
+    }
+  ],
+  "total_claimed": 20100,
+  "manager_id": "EMP-018",
+  "notes": "Phone was stolen. Lost all physical receipts. Manager informed."
+}

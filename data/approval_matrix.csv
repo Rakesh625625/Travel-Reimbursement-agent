@@ -1,0 +1,8 @@
+grade,grade_label,self_approve_limit,manager_approval_limit,finance_approval_limit,cfo_approval_limit,notes
+L1,Junior Associate,2000,10000,50000,999999,Entry level employees
+L2,Senior Associate,3000,15000,50000,999999,Experienced individual contributors
+L3,Lead / Specialist,5000,25000,75000,999999,Technical or functional leads
+L4,Manager,10000,50000,100000,999999,People managers
+L5,Director,25000,100000,250000,999999,Department directors
+L6,VP / AVP,50000,200000,500000,999999,Vice presidents
+L7,C-Suite,100000,500000,999999,999999,C-level executives

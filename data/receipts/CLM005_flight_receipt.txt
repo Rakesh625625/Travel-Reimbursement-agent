@@ -1,0 +1,34 @@
+================================================
+     AIR INDIA — E-TICKET RECEIPT
+================================================
+PNR          : AIRAI24052001
+Booking Ref  : AI-BOM-JFK-2024
+Issued       : April 10, 2024
+------------------------------------------------
+Passenger    : SUNITA RAO
+Employee ID  : EMP-021
+Airline      : Air India
+------------------------------------------------
+OUTBOUND FLIGHT:
+Flight No    : AI-101
+Route        : Mumbai (BOM) → New York JFK
+Date         : 20-May-2024
+Class        : Economy
+Depart       : 02:30 AM IST
+Arrive       : 08:45 AM EDT
+------------------------------------------------
+RETURN FLIGHT:
+Flight No    : AI-102
+Route        : New York JFK → Mumbai (BOM)
+Date         : 24-May-2024
+Class        : Economy
+Depart       : 11:00 PM EDT
+Arrive       : 01:15 AM IST (+2 days)
+------------------------------------------------
+Base Fare    : ₹62,000.00
+Taxes & Fees : ₹16,000.00
+TOTAL        : ₹78,000.00
+------------------------------------------------
+Payment      : Corporate Card ending 7712
+Note         : Economy class per policy Section 7
+================================================

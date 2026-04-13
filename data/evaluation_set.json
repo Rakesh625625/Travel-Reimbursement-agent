@@ -1,0 +1,31 @@
+{
+  "test_cases": [
+    {
+      "claim_id": "CLM-2024-001",
+      "expected_decision": "Approve",
+      "expected_min_amount": 6050,
+      "description": "Standard domestic trip, all receipts present."
+    },
+    {
+      "claim_id": "CLM-2024-002",
+      "expected_decision": "Partially Approve",
+      "expected_max_amount": 7600,
+      "description": "Exceeds per diem limits and missing one receipt."
+    },
+    {
+      "claim_id": "CLM-2024-003",
+      "expected_decision": "Reject",
+      "description": "Ineligible categories (entertainment, luxury hotel)."
+    },
+    {
+      "claim_id": "CLM-2024-004",
+      "expected_decision": "Manual Review",
+      "description": "Critical receipts missing (flight and hotel)."
+    },
+    {
+      "claim_id": "CLM-2024-005",
+      "expected_decision": "Manual Review",
+      "description": "International trip with large amount for L1 employee."
+    }
+  ]
+}

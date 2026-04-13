@@ -1,0 +1,22 @@
+================================================
+        MEAL RECEIPTS — PRIYA SHARMA
+================================================
+Claim ID     : CLM-2024-001
+Employee     : Priya Sharma (EMP-042)
+------------------------------------------------
+DAY 1 — January 15, 2024
+Breakfast    : ₹150 (Hotel coffee shop)
+Lunch        : ₹200 (Client lunch — Cafe Zoe)
+Dinner       : ₹100 (Room service — light meal)
+Day 1 Total  : ₹450
+------------------------------------------------
+DAY 2 — January 16, 2024
+Breakfast    : ₹120 (Hotel breakfast)
+Lunch        : ₹180 (Quick lunch)
+Dinner       : ₹150 (Client dinner)
+Day 2 Total  : ₹450
+------------------------------------------------
+TOTAL MEALS  : ₹900 (2 days × ₹450)
+Policy Limit : ₹500/day
+Status       : WITHIN LIMIT (₹450 < ₹500)
+================================================

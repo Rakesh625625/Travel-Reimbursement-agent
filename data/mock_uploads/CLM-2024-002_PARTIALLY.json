@@ -1,0 +1,50 @@
+{
+  "claim_id": "CLM-2024-002",
+  "scenario_label": "PARTIALLY APPROVE \u2014 Hotel over limit, meal over limit, taxi no receipt",
+  "employee_id": "EMP-073",
+  "employee_name": "Arjun Mehta",
+  "employee_grade": "L2",
+  "department": "Sales",
+  "trip_city": "Delhi",
+  "trip_country": "India",
+  "trip_type": "domestic",
+  "trip_purpose": "Partner conference at New Delhi",
+  "travel_start_date": "2024-02-05",
+  "travel_end_date": "2024-02-06",
+  "submission_date": "2024-02-10",
+  "items": [
+    {
+      "item_id": "ITM-002-01",
+      "type": "hotel",
+      "description": "The Leela Palace \u2013 1 night (exceeds \u20b95000 cap)",
+      "amount": 6500,
+      "quantity": 1,
+      "unit": "nights",
+      "receipt_available": true,
+      "receipt_ref": "CLM002_hotel_receipt.txt"
+    },
+    {
+      "item_id": "ITM-002-02",
+      "type": "meal",
+      "description": "Meals \u2013 1 day (exceeds \u20b9500 cap)",
+      "amount": 720,
+      "quantity": 1,
+      "unit": "days",
+      "receipt_available": true,
+      "receipt_ref": "CLM002_meal_receipt.txt"
+    },
+    {
+      "item_id": "ITM-002-03",
+      "type": "taxi",
+      "description": "Local taxi \u2013 no receipt",
+      "amount": 380,
+      "quantity": 1,
+      "unit": "trip",
+      "receipt_available": false,
+      "receipt_ref": null
+    }
+  ],
+  "total_claimed": 7600,
+  "manager_id": "EMP-015",
+  "notes": "Lost taxi receipt during transit."
+}

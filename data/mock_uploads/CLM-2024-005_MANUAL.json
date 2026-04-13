@@ -1,0 +1,60 @@
+{
+  "claim_id": "CLM-2024-005",
+  "scenario_label": "MANUAL REVIEW \u2014 L1 employee, international trip exceeds approval threshold",
+  "employee_id": "EMP-021",
+  "employee_name": "Sunita Rao",
+  "employee_grade": "L1",
+  "department": "HR",
+  "trip_city": "New York",
+  "trip_country": "USA",
+  "trip_type": "international",
+  "trip_purpose": "Global HR Summit 2024",
+  "travel_start_date": "2024-05-20",
+  "travel_end_date": "2024-05-24",
+  "submission_date": "2024-05-28",
+  "items": [
+    {
+      "item_id": "ITM-005-01",
+      "type": "flight",
+      "description": "Air India BOM-JFK-BOM (round trip, economy)",
+      "amount": 78000,
+      "quantity": 1,
+      "unit": "trip",
+      "receipt_available": true,
+      "receipt_ref": "CLM005_flight_receipt.txt"
+    },
+    {
+      "item_id": "ITM-005-02",
+      "type": "hotel",
+      "description": "Marriott Times Square \u2013 4 nights",
+      "amount": 56000,
+      "quantity": 4,
+      "unit": "nights",
+      "receipt_available": true,
+      "receipt_ref": "CLM005_hotel_receipt.txt"
+    },
+    {
+      "item_id": "ITM-005-03",
+      "type": "meal",
+      "description": "Meals \u2013 4 days",
+      "amount": 7200,
+      "quantity": 4,
+      "unit": "days",
+      "receipt_available": true,
+      "receipt_ref": "CLM005_meal_receipt.txt"
+    },
+    {
+      "item_id": "ITM-005-04",
+      "type": "taxi",
+      "description": "Airport transfers and local transport",
+      "amount": 4500,
+      "quantity": 4,
+      "unit": "days",
+      "receipt_available": true,
+      "receipt_ref": "CLM005_taxi_receipt.txt"
+    }
+  ],
+  "total_claimed": 145700,
+  "manager_id": "EMP-009",
+  "notes": "Sponsored by HR leadership. VP approved travel in advance."
+}

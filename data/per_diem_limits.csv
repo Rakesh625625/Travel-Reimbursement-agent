@@ -1,0 +1,21 @@
+city,country,trip_type,hotel_per_night,meal_per_day,taxi_per_day,flight_max_one_way,local_transport_per_day,notes
+Mumbai,India,domestic,5000,500,400,15000,200,Financial capital — higher hotel rates
+Delhi,India,domestic,5000,500,400,15000,200,Capital city — higher hotel rates
+Bangalore,India,domestic,4500,450,350,12000,200,Tech hub — moderate rates
+Chennai,India,domestic,4000,400,350,12000,150,Standard metro rates
+Hyderabad,India,domestic,4000,400,300,12000,150,Standard metro rates
+Pune,India,domestic,3500,400,300,10000,150,Tier-2 city rates
+Kolkata,India,domestic,3500,400,300,10000,150,Tier-2 city rates
+Ahmedabad,India,domestic,3000,350,250,8000,100,Tier-2 city rates
+Jaipur,India,domestic,3000,350,250,8000,100,Tier-2 city rates
+Kochi,India,domestic,3000,350,250,8000,100,Tier-2 city rates
+New York,USA,international,15000,2000,1500,80000,500,Premium US city
+San Francisco,USA,international,18000,2000,1500,85000,500,Premium US city
+Chicago,USA,international,12000,1800,1200,75000,400,Mid-tier US city
+London,UK,international,18000,2500,1800,90000,600,Premium EU city
+Paris,France,international,16000,2200,1600,85000,550,Premium EU city
+Frankfurt,Germany,international,14000,2000,1400,80000,500,Mid-tier EU city
+Singapore,Singapore,international,12000,1500,1000,60000,400,Southeast Asia hub
+Tokyo,Japan,international,14000,1800,1200,70000,450,Asian premium city
+Dubai,UAE,international,10000,1500,1200,55000,400,Middle East hub
+Sydney,Australia,international,13000,1800,1300,75000,450,ANZ premium city

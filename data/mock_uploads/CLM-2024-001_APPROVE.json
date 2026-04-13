@@ -1,0 +1,50 @@
+{
+  "claim_id": "CLM-2024-001",
+  "scenario_label": "APPROVE \u2014 All within limits, all receipts present",
+  "employee_id": "EMP-042",
+  "employee_name": "Priya Sharma",
+  "employee_grade": "L3",
+  "department": "Engineering",
+  "trip_city": "Mumbai",
+  "trip_country": "India",
+  "trip_type": "domestic",
+  "trip_purpose": "Client meeting with FinServ Corp",
+  "travel_start_date": "2024-01-15",
+  "travel_end_date": "2024-01-17",
+  "submission_date": "2024-01-20",
+  "items": [
+    {
+      "item_id": "ITM-001-01",
+      "type": "hotel",
+      "description": "Hotel Taj Lands End \u2013 2 nights",
+      "amount": 4800,
+      "quantity": 2,
+      "unit": "nights",
+      "receipt_available": true,
+      "receipt_ref": "CLM001_hotel_receipt.txt"
+    },
+    {
+      "item_id": "ITM-001-02",
+      "type": "meal",
+      "description": "Meals \u2013 2 days",
+      "amount": 900,
+      "quantity": 2,
+      "unit": "days",
+      "receipt_available": true,
+      "receipt_ref": "CLM001_meal_receipt.txt"
+    },
+    {
+      "item_id": "ITM-001-03",
+      "type": "taxi",
+      "description": "Airport transfer \u2013 arrival and departure",
+      "amount": 350,
+      "quantity": 1,
+      "unit": "trip",
+      "receipt_available": true,
+      "receipt_ref": "CLM001_taxi_receipt.txt"
+    }
+  ],
+  "total_claimed": 6050,
+  "manager_id": "EMP-010",
+  "notes": "Routine client visit. All receipts attached."
+}

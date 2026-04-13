@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  travel-agent:
+    build: .
+    container_name: travel-reimbursement-agent
+    ports:
+      - "8000:8000"
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - ./logs:/app/logs
+      - ./data:/app/data
+    restart: unless-stopped
