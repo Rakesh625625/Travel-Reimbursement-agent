@@ -2,7 +2,7 @@
 
 An AI-powered system that automatically evaluates employee travel claims against company policy using **LangGraph** orchestration, **MCP** (Model Context Protocol) tool integration, and Google's **Gemini**. 
 
-This repository was created as a robust, production-grade Prototype submission for the HCL Tech AI Solution Associate Assignment.
+This repository was created as a robust and production-grade Prototype .
 
 ---
 
